@@ -1,1 +1,1 @@
-web: java -jar target/food-trucks-0.0.1.jar
+web: java -jar target/food-trucks-0.0.1.jar --port $PORT
